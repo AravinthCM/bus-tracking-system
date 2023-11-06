@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223556972933",
+    "project_id": "fir-tracky",
+    "storage_bucket": "fir-tracky.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223556972933:android:ff212539caa1ccb927d4ec",
+        "android_client_info": {
+          "package_name": "com.example.tracky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9egp8QRCIHCAKJycM57ay4dJ6daEITMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

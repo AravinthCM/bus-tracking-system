@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp">
+
+
+    <ImageButton
+        android:id="@+id/button51"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="0dp"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:backgroundTint="@color/app_theme_light"
+        android:contentDescription="@string/backbut"
+        android:src="@drawable/arrow_back"/>
+
+        <TextView
+            android:id="@+id/titleTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/catchy"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="40dp" />
+
+        <TextView
+            android:id="@+id/contentTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/busdetails"
+            android:textSize="18sp"
+            android:layout_below="@id/titleTextView"
+            android:layout_marginTop="30dp" />
+
+        <TextView
+            android:id="@+id/contentTextView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/busdetails"
+            android:textSize="18sp"
+            android:layout_below="@id/titleTextView"
+            android:layout_marginTop="80dp" />
+
+        <TextView
+            android:id="@+id/contentTextView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/busdetails"
+            android:textSize="18sp"
+            android:layout_below="@id/titleTextView"
+            android:layout_marginTop="280dp" />
+
+
+    </RelativeLayout>
+
+

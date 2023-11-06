@@ -1,0 +1,37 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/main1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="First main page"
+        android:gravity="center"
+        android:layout_marginTop="350dp" />
+
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+        android:backgroundTint="@color/app_theme_light"
+        android:gravity="center"
+        android:text="@string/logout"/>
+
+    <ImageButton
+        android:id="@+id/button71"
+        android:src="@drawable/arrow_back"
+        android:contentDescription="vector"
+        android:layout_marginStart="89dp"
+        android:layout_marginTop="690dp"
+        android:layout_width="55dp"
+        android:layout_height="55dp" />
+
+
+
+
+</RelativeLayout>

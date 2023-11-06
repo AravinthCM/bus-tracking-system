@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Tracky</string>
+    <string name="backbut">backbut</string>
+    <string name="srecbustracker">srec bus tracker</string>
+    <string name="srecbustracky">SREC BUS TRACKY</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="login">Go to Login</string>
+    <string name="adminusername">Admin UserId</string>
+    <string name="studentusername">Student UserId</string>
+    <string name="password">Password</string>
+    <string name="intro">Here you can track the location of your Buses</string>
+    <string name="mail">Username</string>
+    <string name="home">HOME</string>
+    <string name="Contactus">Contact us</string>
+    <string name="aboutus">About us</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="ADMINLogin">ADMIN Login</string>
+    <string name="STUDENTLOGIN">STUDENT Login</string>
+    <string name="logintocontinue">login to continue</string>
+    <string name="butlog">login</string>
+    <string name="LOGINtocontinue">LOGIN TO CONTINUE</string>
+    <string name="sreclogo">srec logo</string>
+    <string name="submit">SUBMIT</string>
+    <string name="ClickMe">Click Me</string>
+    <string name="welcome">Welcome to SREC Bus Tracking app here you can check the details of the destination of the bus</string>
+    <string name="catchy">ABOUT BUS</string>
+    <string name="busdetails">Bus number:1 details</string>
+    <string name="Login">LOGIN</string>
+
+
+
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="bus_tracky_string">Bus Tracky</string>
+    <string name="srec_bus_tracker_string">SREC Bus Tracker</string>
+    <string name="go_to_app_string">Go to App</string>
+    <string name="welcome_srecians">Welcome Srecians!!</string>
+    <string name="track_the_destination_of_your_bus">Track the destination of your bus</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">Logout</string>
+</resources>

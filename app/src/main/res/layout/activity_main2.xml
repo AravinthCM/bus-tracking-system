@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/page_iphone_13___14___1_ek1"
+        android:layout_marginTop="0dp"
+        android:layout_marginStart="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <View   android:id="@+id/_bg__iphone_13___14___1_ek2"
+            android:background="@drawable/_bg__iphone_13___14___1_ek2_shape"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp"
+            android:layout_width="420dp"
+            android:layout_height="844dp"
+            android:backgroundTint="@color/app_theme_light"/>
+
+
+        <RelativeLayout android:id="@+id/iconamoon_home_thin"
+            android:layout_marginTop="807dp"
+            android:layout_marginStart="186dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </RelativeLayout>
+
+
+
+    <View   android:id="@+id/rectangle_2"
+        android:background="@drawable/rectangle_2_shape"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="108dp" />
+
+    <TextView
+        android:id="@+id/bus_tracky"
+        android:textStyle="bold"
+        android:textSize="45sp"
+        android:textColor="@color/_bg__iconamoon_home_thin_ek1_color"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="38dp"
+        android:layout_width="278dp"
+        android:layout_height="94dp"
+        android:text="@string/bus_tracky_string" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/sreclogo1"
+        android:layout_marginStart="131dp"
+        android:layout_marginTop="140dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_srecians"
+        android:layout_marginTop="340dp"
+        android:layout_marginStart="25dp"
+        android:textSize="25sp"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="171dp"
+        android:layout_height="122dp"
+        android:contentDescription="@string/ADMINLogin"
+        app:srcCompat="@mipmap/img_5"
+        android:layout_marginTop="420dp"
+        android:layout_marginStart="40dp"/>
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="171dp"
+        android:layout_height="122dp"
+        android:contentDescription="@string/STUDENTLOGIN"
+        app:srcCompat="@mipmap/img"
+        android:layout_marginTop="420dp"
+        android:layout_marginStart="210dp"/>
+
+    <Button
+        android:id="@+id/imageButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ADMINLogin"
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="540dp"/>
+
+    <Button
+        android:id="@+id/imageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/STUDENTLOGIN"
+        android:layout_marginStart="225dp"
+        android:layout_marginTop="540dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="@string/track_the_destination_of_your_bus"
+        android:layout_marginTop="600dp"
+        android:layout_marginStart="100dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="690dp"
+        android:background="@color/rectangle_2_color" />
+
+    <ImageButton
+        android:id="@+id/imgbut"
+        android:src="@drawable/arrow_back"
+        android:contentDescription="vector"
+        android:layout_marginStart="3dp"
+        android:backgroundTint="@color/app_theme_light"
+        android:layout_marginTop="110dp"
+        android:layout_width="55dp"
+        android:layout_height="55dp"/>
+
+    </RelativeLayout>
+</RelativeLayout>
